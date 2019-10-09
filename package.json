@@ -1,0 +1,24 @@
+{
+  "name": "indecisionapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^12.11.1",
+    "yarn": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlentz92/IndecisionApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlentz92/IndecisionApp/issues"
+  },
+  "homepage": "https://github.com/dlentz92/IndecisionApp#readme"
+}
